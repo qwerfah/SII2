@@ -1,0 +1,468 @@
+{
+    "Root" :
+    {
+        "Name" : "Типы памяти",
+        "Child" : [
+            {
+                "Name" : "Адресные",
+                "Child" : [
+                    {
+                        "Name" : "RAM",
+                        "Child" : [
+                            {
+                                "Name" : "Энергозависимые",
+                                "Child" : [
+                                    {
+                                        "Name" : "DRAM",
+                                        "Child" : [
+                                            {
+                                                "Name" : "DDR3",
+                                                "Child" : [
+                                                    {
+                                                        "Name" : "DDR3-800",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 6400,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.40
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR3-1066",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 8533,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.50
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR3-1333",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 10667,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.54
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR3-1600",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 12800,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.46
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR3-1866",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 14933,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.45
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR3-2133",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 17066,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.43
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR3-2400",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 16384,
+                                                            "MaxSpeed" : 19200,
+                                                            "ReleaseYear" : 2007,
+                                                            "AverageCost" : 0.43
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Name" : "DDR4",
+                                                "Child" : [
+                                                    {
+                                                        "Name" : "DDR4-1600",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 12800,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.23
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR4-1866",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 14933,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.32
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR4-2133",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 17066,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.35
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR4-2400",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 19200,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.40
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR4-2666",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 21333,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.45
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR4-2933",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 23466,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.48
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "DDR4-3200",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 131072,
+                                                            "MaxSpeed" : 25600,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 0.52
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Name" : "SRAM",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 72,
+                                            "MaxSpeed" : 19200,
+                                            "ReleaseYear" : 2018,
+                                            "AverageCost" : 312
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "Name" : "Энергонезависимые",
+                                "Child" : [
+                                    {
+                                        "Name" : "Магниторезистивные",
+                                        "Child" : [
+                                            {
+                                                "Name" : "MRAM",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 72,
+                                                    "MaxSpeed" : 21000,
+                                                    "ReleaseYear" : 2012,
+                                                    "AverageCost" : 540
+                                                }
+                                            },
+                                            {
+                                                "Name" : "STT-MRAM",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 256,
+                                                    "MaxSpeed" : 210000,
+                                                    "ReleaseYear" : 2019,
+                                                    "AverageCost" : 590
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Name" : "Память на фазовых переходах",
+                                        "Child" : [
+                                            {
+                                                "Name" : "PRAM",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 8192,
+                                                    "MaxSpeed" : 128,
+                                                    "ReleaseYear" : 2008,
+                                                    "AverageCost" : 0.50
+                                                }
+                                            },
+                                            {
+                                                "Name" : "3D XPoint",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 1048576,
+                                                    "MaxSpeed" : 2600,
+                                                    "ReleaseYear" : 2017,
+                                                    "AverageCost" : 0.15
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name" : "ROM",
+                        "Child" : [
+                            {
+                                "Name" : "EPROM",
+                                "Params" : {
+                                    "MaxStorageCapacity" : 4,
+                                    "MaxSpeed" : 200,
+                                    "ReleaseYear" : 2001,
+                                    "AverageCost" : 0.10
+                                }
+                            },
+                            {
+                                "Name" : "EEPROM",
+                                "Child" : [
+                                    {
+                                        "Name" : "27C010",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    },
+                                    {
+                                        "Name" : "27C020",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    },
+                                    {
+                                        "Name" : "27C040",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    },
+                                    {
+                                        "Name" : "27C080",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    },
+                                    {
+                                        "Name" : "27C160",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    },
+                                    {
+                                        "Name" : "27C320",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "Name" : "Flash memory",
+                                "Child" : [
+                                    {
+                                        "Name" : "NOR",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    },
+                                    {
+                                        "Name" : "NAND",
+                                        "Params" : {
+                                            "MaxStorageCapacity" : 0,
+                                            "MaxSpeed" : 0,
+                                            "ReleaseYear" : 0,
+                                            "AverageCost" : 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name" : "Безадресные",
+                "Child" : [
+                    {
+                        "Name" : "С последовательным доступом",
+                        "Child" : [
+                            {
+                                "Name" : "Ленточные накопители",
+                                "Child" : [
+                                    {
+                                        "Name" : "С линейной магнитной записью",
+                                        "Child" : [
+                                            {
+                                                "Name" : "LTO",
+                                                "Child" : [
+                                                    {
+                                                        "Name" : "LTO 7",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "LTO 8",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "LTO Type M-8",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "LTO 9",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Name" : "IBM 3592",
+                                                "Child" : [
+                                                    {
+                                                        "Name" : "Gen 5",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "Gen 5A",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "Name" : "Gen 6",
+                                                        "Params" : {
+                                                            "MaxStorageCapacity" : 0,
+                                                            "MaxSpeed" : 0,
+                                                            "ReleaseYear" : 0,
+                                                            "AverageCost" : 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Name" : "С наклонно-строчной магнитной записью",
+                                        "Child" : [
+                                            {
+                                                "Name" : "DAT/DDS",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 0,
+                                                    "MaxSpeed" : 0,
+                                                    "ReleaseYear" : 0,
+                                                    "AverageCost" : 0
+                                                }
+                                            },
+                                            {
+                                                "Name" : "AIT",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 0,
+                                                    "MaxSpeed" : 0,
+                                                    "ReleaseYear" : 0,
+                                                    "AverageCost" : 0
+                                                }
+                                            },
+                                            {
+                                                "Name" : "Super AIT",
+                                                "Params" : {
+                                                    "MaxStorageCapacity" : 0,
+                                                    "MaxSpeed" : 0,
+                                                    "ReleaseYear" : 0,
+                                                    "AverageCost" : 0
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name" : "С ассоциативным доступом",
+                        "Child" : [
+                            {
+                                "Name" : "Двоичная АП",
+                                "Params" : {
+                                    "MaxStorageCapacity" : 0,
+                                    "MaxSpeed" : 0,
+                                    "ReleaseYear" : 0,
+                                    "AverageCost" : 0
+                                }
+                            },
+                            {
+                                "Name" : "Троичная АП",
+                                "Params" : {
+                                    "MaxStorageCapacity" : 0,
+                                    "MaxSpeed" : 0,
+                                    "ReleaseYear" : 0,
+                                    "AverageCost" : 0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
