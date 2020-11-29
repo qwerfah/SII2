@@ -24,7 +24,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 6400,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.40
+                                                            "AverageCost" : 0.40,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -33,7 +35,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 8533,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.50
+                                                            "AverageCost" : 0.50,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -42,7 +46,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 10667,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.54
+                                                            "AverageCost" : 0.54,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -51,7 +57,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 12800,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.46
+                                                            "AverageCost" : 0.46,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -60,7 +68,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 14933,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.45
+                                                            "AverageCost" : 0.45,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -69,7 +79,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 17066,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.43
+                                                            "AverageCost" : 0.43,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -78,7 +90,9 @@
                                                             "MaxStorageCapacity" : 16384,
                                                             "MaxSpeed" : 19200,
                                                             "ReleaseYear" : 2007,
-                                                            "AverageCost" : 0.43
+                                                            "AverageCost" : 0.43,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     }
                                                 ]
@@ -92,7 +106,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 12800,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.23
+                                                            "AverageCost" : 0.23,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -101,7 +117,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 14933,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.32
+                                                            "AverageCost" : 0.32,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -110,7 +128,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 17066,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.35
+                                                            "AverageCost" : 0.35,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -119,7 +139,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 19200,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.40
+                                                            "AverageCost" : 0.40,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -128,7 +150,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 21333,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.45
+                                                            "AverageCost" : 0.45,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -137,7 +161,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 23466,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.48
+                                                            "AverageCost" : 0.48,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     },
                                                     {
@@ -146,7 +172,9 @@
                                                             "MaxStorageCapacity" : 131072,
                                                             "MaxSpeed" : 25600,
                                                             "ReleaseYear" : 2014,
-                                                            "AverageCost" : 0.52
+                                                            "AverageCost" : 0.52,
+                                                            "IsGeneralPurpose" : false,
+                                                            "MemoryTypes" : [0, 1]
                                                         }
                                                     }
                                                 ]
@@ -159,7 +187,9 @@
                                             "MaxStorageCapacity" : 72,
                                             "MaxSpeed" : 19200,
                                             "ReleaseYear" : 2018,
-                                            "AverageCost" : 312
+                                            "AverageCost" : 312,
+                                            "IsGeneralPurpose" : false,
+                                            "MemoryTypes" : [2, 3]
                                         }
                                     }
                                 ]
@@ -176,7 +206,9 @@
                                                     "MaxStorageCapacity" : 72,
                                                     "MaxSpeed" : 21000,
                                                     "ReleaseYear" : 2012,
-                                                    "AverageCost" : 540
+                                                    "AverageCost" : 540,
+                                                    "IsGeneralPurpose" : false,
+                                                    "MemoryTypes" : [0, 2]
                                                 }
                                             },
                                             {
@@ -185,7 +217,9 @@
                                                     "MaxStorageCapacity" : 256,
                                                     "MaxSpeed" : 210000,
                                                     "ReleaseYear" : 2019,
-                                                    "AverageCost" : 590
+                                                    "AverageCost" : 590,
+                                                    "IsGeneralPurpose" : false,
+                                                    "MemoryTypes" : [0, 2]
                                                 }
                                             }
                                         ]
@@ -199,7 +233,9 @@
                                                     "MaxStorageCapacity" : 8192,
                                                     "MaxSpeed" : 128,
                                                     "ReleaseYear" : 2008,
-                                                    "AverageCost" : 0.50
+                                                    "AverageCost" : 0.50,
+                                                    "IsGeneralPurpose" : true,
+                                                    "MemoryTypes" : [4]
                                                 }
                                             },
                                             {
@@ -208,7 +244,9 @@
                                                     "MaxStorageCapacity" : 1048576,
                                                     "MaxSpeed" : 2600,
                                                     "ReleaseYear" : 2017,
-                                                    "AverageCost" : 0.15
+                                                    "AverageCost" : 0.15,
+                                                    "IsGeneralPurpose" : true,
+                                                    "MemoryTypes" : [4]
                                                 }
                                             }
                                         ]
@@ -226,7 +264,9 @@
                                     "MaxStorageCapacity" : 4,
                                     "MaxSpeed" : 200,
                                     "ReleaseYear" : 2001,
-                                    "AverageCost" : 0.10
+                                    "AverageCost" : 0.10,
+                                    "IsGeneralPurpose" : true,
+                                    "MemoryTypes" : [2, 4]
                                 }
                             },
                             {
@@ -235,55 +275,67 @@
                                     {
                                         "Name" : "27C010",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 8,
+                                            "MaxSpeed" : 400,
+                                            "ReleaseYear" : 2002,
+                                            "AverageCost" : 5,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     },
                                     {
                                         "Name" : "27C020",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 16,
+                                            "MaxSpeed" : 450,
+                                            "ReleaseYear" : 2003,
+                                            "AverageCost" : 7,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     },
                                     {
                                         "Name" : "27C040",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 32,
+                                            "MaxSpeed" : 500,
+                                            "ReleaseYear" : 2004,
+                                            "AverageCost" : 10,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     },
                                     {
                                         "Name" : "27C080",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 64,
+                                            "MaxSpeed" : 540,
+                                            "ReleaseYear" : 2005,
+                                            "AverageCost" : 11,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     },
                                     {
                                         "Name" : "27C160",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 64,
+                                            "MaxSpeed" : 600,
+                                            "ReleaseYear" : 2006,
+                                            "AverageCost" : 10,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     },
                                     {
                                         "Name" : "27C320",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 128,
+                                            "MaxSpeed" : 620,
+                                            "ReleaseYear" : 2008,
+                                            "AverageCost" : 12,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     }
                                 ]
@@ -294,19 +346,23 @@
                                     {
                                         "Name" : "NOR",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 1048576,
+                                            "MaxSpeed" : 500,
+                                            "ReleaseYear" : 2008,
+                                            "AverageCost" : 5,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     },
                                     {
                                         "Name" : "NAND",
                                         "Params" : {
-                                            "MaxStorageCapacity" : 0,
-                                            "MaxSpeed" : 0,
-                                            "ReleaseYear" : 0,
-                                            "AverageCost" : 0
+                                            "MaxStorageCapacity" : 1048576,
+                                            "MaxSpeed" : 3000,
+                                            "ReleaseYear" : 2012,
+                                            "AverageCost" : 7,
+                                            "IsGeneralPurpose" : true,
+                                            "MemoryTypes" : [2, 4]
                                         }
                                     }
                                 ]
@@ -333,37 +389,45 @@
                                                     {
                                                         "Name" : "LTO 7",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 6000000,
+                                                            "MaxSpeed" : 300,
+                                                            "ReleaseYear" : 2015,
+                                                            "AverageCost" : 0.7,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     },
                                                     {
                                                         "Name" : "LTO 8",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 12800000,
+                                                            "MaxSpeed" : 360,
+                                                            "ReleaseYear" : 2017,
+                                                            "AverageCost" : 0.8,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     },
                                                     {
                                                         "Name" : "LTO Type M-8",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 9000000,
+                                                            "MaxSpeed" : 300,
+                                                            "ReleaseYear" : 2017,
+                                                            "AverageCost" : 0.75,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     },
                                                     {
                                                         "Name" : "LTO 9",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 18000000,
+                                                            "MaxSpeed" : 400,
+                                                            "ReleaseYear" : 2020,
+                                                            "AverageCost" : 0.6,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     }
                                                 ]
@@ -374,28 +438,34 @@
                                                     {
                                                         "Name" : "Gen 5",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 10000000,
+                                                            "MaxSpeed" : 360,
+                                                            "ReleaseYear" : 2014,
+                                                            "AverageCost" : 1.2,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     },
                                                     {
                                                         "Name" : "Gen 5A",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 15000000,
+                                                            "MaxSpeed" : 360,
+                                                            "ReleaseYear" : 2017,
+                                                            "AverageCost" : 1.3,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     },
                                                     {
                                                         "Name" : "Gen 6",
                                                         "Params" : {
-                                                            "MaxStorageCapacity" : 0,
-                                                            "MaxSpeed" : 0,
-                                                            "ReleaseYear" : 0,
-                                                            "AverageCost" : 0
+                                                            "MaxStorageCapacity" : 20000000,
+                                                            "MaxSpeed" : 400,
+                                                            "ReleaseYear" : 2018,
+                                                            "AverageCost" : 1.45,
+                                                            "IsGeneralPurpose" : true,
+                                                            "MemoryTypes" : [4]
                                                         }
                                                     }
                                                 ]
@@ -408,28 +478,34 @@
                                             {
                                                 "Name" : "DAT/DDS",
                                                 "Params" : {
-                                                    "MaxStorageCapacity" : 0,
-                                                    "MaxSpeed" : 0,
-                                                    "ReleaseYear" : 0,
-                                                    "AverageCost" : 0
+                                                    "MaxStorageCapacity" : 160000,
+                                                    "MaxSpeed" : 12,
+                                                    "ReleaseYear" : 2009,
+                                                    "AverageCost" : 1.5,
+                                                    "IsGeneralPurpose" : true,
+                                                    "MemoryTypes" : [4]
                                                 }
                                             },
                                             {
                                                 "Name" : "AIT",
                                                 "Params" : {
-                                                    "MaxStorageCapacity" : 0,
-                                                    "MaxSpeed" : 0,
-                                                    "ReleaseYear" : 0,
-                                                    "AverageCost" : 0
+                                                    "MaxStorageCapacity" : 400000,
+                                                    "MaxSpeed" : 24,
+                                                    "ReleaseYear" : 2006,
+                                                    "AverageCost" : 3.4,
+                                                    "IsGeneralPurpose" : true,
+                                                    "MemoryTypes" : [4]
                                                 }
                                             },
                                             {
                                                 "Name" : "Super AIT",
                                                 "Params" : {
-                                                    "MaxStorageCapacity" : 0,
-                                                    "MaxSpeed" : 0,
-                                                    "ReleaseYear" : 0,
-                                                    "AverageCost" : 0
+                                                    "MaxStorageCapacity" : 800000,
+                                                    "MaxSpeed" : 45,
+                                                    "ReleaseYear" : 2006,
+                                                    "AverageCost" : 4,
+                                                    "IsGeneralPurpose" : true,
+                                                    "MemoryTypes" : [4]
                                                 }
                                             }
                                         ]
@@ -444,19 +520,23 @@
                             {
                                 "Name" : "Двоичная АП",
                                 "Params" : {
-                                    "MaxStorageCapacity" : 0,
-                                    "MaxSpeed" : 0,
-                                    "ReleaseYear" : 0,
-                                    "AverageCost" : 0
+                                    "MaxStorageCapacity" : 1,
+                                    "MaxSpeed" : 250000,
+                                    "ReleaseYear" : 1982,
+                                    "AverageCost" : 100000,
+                                    "IsGeneralPurpose" : false,
+                                    "MemoryTypes" : [3]
                                 }
                             },
                             {
                                 "Name" : "Троичная АП",
                                 "Params" : {
-                                    "MaxStorageCapacity" : 0,
-                                    "MaxSpeed" : 0,
-                                    "ReleaseYear" : 0,
-                                    "AverageCost" : 0
+                                    "MaxStorageCapacity" : 1,
+                                    "MaxSpeed" : 250000,
+                                    "ReleaseYear" : 1982,
+                                    "AverageCost" : 100000,
+                                    "IsGeneralPurpose" : false,
+                                    "MemoryTypes" : [3]
                                 }
                             }
                         ]
