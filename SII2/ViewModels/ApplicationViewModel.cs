@@ -126,7 +126,6 @@ namespace SII2.ViewModels
         public ApplicationViewModel()
         {
             LoadTreeFromFile();
-            MessageBox.Show(IconPath);
         }
 
         private void LoadTreeFromFile()
